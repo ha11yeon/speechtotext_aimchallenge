@@ -2,6 +2,8 @@
 
 여기는 ACIN Academy에서 제공하는 Open Courses 중에서 `ACIN-202. Fine-tuning using Transfer Learning (전이학습을 이용한 파인 튜닝)` 과정에 대한 내용을 정리한 페이지 입니다.
 
+huggingFace에 openai가 제공하는 whisper모델을 (tiny-small-medium---large등) 다운받아 whisper folder내에 model_archive폴더를 만들고 그 안에 삽입하여 쓰는 것을 권장
+
 ## OpenAI Whisper 모델 파인 튜닝
 
 - 참고: 전체 소스코드는 시리즈가 완료되면 추가 예정입니다.
